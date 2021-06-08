@@ -1,6 +1,7 @@
 # ☂️chat-app-client☂️
 
-<img src="<https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e26f74d3-915a-4098-9fa9-f6cd38aae3c2/pcb.png>">
+![pcb](https://user-images.githubusercontent.com/42789883/121198886-70a9b680-c8ad-11eb-881b-47c1195ccc6e.png)
+![moblie](https://user-images.githubusercontent.com/42789883/121199083-98991a00-c8ad-11eb-913b-52c301fbf695.png)
 
 ## Description
 
