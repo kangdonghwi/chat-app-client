@@ -1,7 +1,7 @@
 # ☂️chat-app-client☂️
 
-<img src="https://user-images.githubusercontent.com/42789883/121198886-70a9b680-c8ad-11eb-881b-47c1195ccc6e.png">
-<img src="https://user-images.githubusercontent.com/42789883/121199083-98991a00-c8ad-11eb-913b-52c301fbf695.png">
+<img src="https://user-images.githubusercontent.com/42789883/121198886-70a9b680-c8ad-11eb-881b-47c1195ccc6e.png" width="838" height="838">
+<img src="https://user-images.githubusercontent.com/42789883/121199083-98991a00-c8ad-11eb-913b-52c301fbf695.png" width="347" height="690">
 
 
 ## Description
