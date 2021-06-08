@@ -1,2 +1,24 @@
-- React와 socketio를 사용해 채팅방 클라이언트를 구축했습니다.
-- css-in-js라이브러리인 styled-components를 사용해 코드 재활용을 쉽게 했습니다.
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e26f74d3-915a-4098-9fa9-f6cd38aae3c2/pcb.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e26f74d3-915a-4098-9fa9-f6cd38aae3c2/pcb.png)
+
+# ☂️chat-app-client☂️
+
+## Description
+
+### 빗속에서 대화하는 컨셉의 채팅방
+
+## Dev Stack
+
+- React & ReactHooks
+- socket.io-client
+- styled-components
+- 
+
+## Features
+
+- [x] New User
+- [x] Get User Number
+- [x] Get New Message
+- [x] User Connection
+- [ ] User Disconnection
+- [ ] User Reconnection
+- [ ] Connect mongodb
