@@ -11,7 +11,6 @@
 - React & ReactHooks
 - socket.io-client
 - styled-components
-- 
 
 ## Features
 
